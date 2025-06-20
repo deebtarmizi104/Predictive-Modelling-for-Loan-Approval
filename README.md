@@ -21,12 +21,15 @@ The full report is available here:
 
 ---
 
-## 📋 Dataset & Features
+## 📂 Dataset
 
-While the RPubs report provides all dataset details, typical variables include:
-
-- **Applicant information**: `Gender`, `Married`, `Dependents`, `Education`, `Self_Employed`, `Credit_History`
-- **Loan details**: `LoanAmount`, `Term`, `Property_Area`, `Loan_Status` (target)
+- **Name**: Loan Prediction Dataset
+- **Source**: [Kaggle - Loan Prediction Problem](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
+- **Records**: 614
+- **Features**:
+  - **Demographics**: `Gender`, `Married`, `Dependents`, `Education`, `Self_Employed`
+  - **Financials**: `ApplicantIncome`, `CoapplicantIncome`, `LoanAmount`, `Loan_Amount_Term`, `Credit_History`
+  - **Context**: `Property_Area`, `Loan_Status` (target)
 
 ---
 
